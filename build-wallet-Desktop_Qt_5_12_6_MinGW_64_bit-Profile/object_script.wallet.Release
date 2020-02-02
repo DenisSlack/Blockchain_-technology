@@ -1,0 +1,11 @@
+release/blockchain.o
+release/functional.o
+release/main.o
+release/enter.o
+release/registration.o
+release/transaction.o
+release/moc_blockchain.o
+release/moc_enter.o
+release/moc_functional.o
+release/moc_registration.o
+release/moc_transaction.o

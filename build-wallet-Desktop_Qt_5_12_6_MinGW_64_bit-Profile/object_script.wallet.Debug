@@ -1,0 +1,11 @@
+debug/blockchain.o
+debug/functional.o
+debug/main.o
+debug/enter.o
+debug/registration.o
+debug/transaction.o
+debug/moc_blockchain.o
+debug/moc_enter.o
+debug/moc_functional.o
+debug/moc_registration.o
+debug/moc_transaction.o
